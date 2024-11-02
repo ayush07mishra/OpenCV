@@ -12,5 +12,3 @@ cv2.imwrite()#save file
 cv2.waitKey(0)
 cv2.destroyAllWindows()  
 
-
-
