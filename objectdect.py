@@ -10,7 +10,6 @@ import numpy as np
 
 #     mask=cv2.inRange(hsv,lv,uv)
 
-
 # cv2.imshow("img",img
 # cv2.waitKey(0)
 # cv2.destroyAllWindows()
